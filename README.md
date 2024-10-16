@@ -36,7 +36,7 @@ Make sure you have the following installed:
 2. **Run the script:**
 
    ```bash
-   python3 script_name.py
+   python3 batch_linkfinder.py
 
 3. **The script will prompt you to enter the path to the file containing the URLs:**
 
